@@ -32,6 +32,6 @@ def process_files(old_path, new_path):
 
 
 if __name__ == "__main__":
-    old_path = r"H:\待处理文件夹"
-    new_path = r"H:\经过整理的文件夹"
+    old_path = r"E:\待处理文件"
+    new_path = r"E:\处理好的文件"
     process_files(old_path, new_path)
